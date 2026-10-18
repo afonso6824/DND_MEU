@@ -1,0 +1,10 @@
+Os **Tribunais dos Juízes de Ferro** são os centros judiciais de elite exclusivos das grandes capitais (as Cidades-Santuário). São nestes edifícios implacáveis que se julgam os crimes mais graves contra o Império, como alta traição, heresias arcanas (uso de magia sem o Selo de Ébano) e grandes desvios de recursos do Estado.
+
+O que torna estes tribunais verdadeiramente aterradores para a população e para os jogadores não é a sua arquitetura, mas sim quem os preside: os **Juízes de Ferro**.
+
+Para garantir a Ordem absoluta, o Círculo de Ébano seleciona magistrados e burocratas promissores e obriga-os a consumir micro-doses contínuas de **Medula Radiante**. O uso desta herança celestial afeta-os de duas formas extremas:
+
+- **O Detetor de Mentiras Absoluto:** A Medula expande a mente a um nível cósmico, permitindo a estes juízes e inquisidores literalmente "ver" a intenção e a verdade cravada na aura das pessoas que estão a ser interrogadas. Diante deles, as ilusões e as mentiras tornam-se completamente inúteis.
+- **A Atrofia Emocional (O Preço):** A mente mortal não foi feita para processar a "Ordem Absoluta" da Medula Radiante. O consumo desta substância destrói por completo a empatia humana, tornando estes juízes clinicamente apáticos e incapazes de sentir compaixão, amor, hesitação ou medo. A longo prazo, perdem o livre-arbítrio e tornam-se estátuas vivas de carne, paralisadas pela obsessão da perfeição e da ordem.
+
+**O Gacho Mecânico e Narrativo para os Jogadores:** Se o teu grupo for capturado e levado a um destes tribunais na capital, ou se tiverem de negociar um perdão para um aliado, as táticas normais de RPG falham redondamente. **Não adianta rolar Persuasão com apelos emocionais, chorar miséria ou tentar subornar o juiz com ouro.** O Juiz de Ferro é uma máquina lógica e sociopata, focada apenas na frieza dos factos. Os jogadores terão de usar provas irrefutáveis, lacunas lógicas na lei, ou escapar antes que a sentença (geralmente os Cadinhos de Carne) seja proferida.

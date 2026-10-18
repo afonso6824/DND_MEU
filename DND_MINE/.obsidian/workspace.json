@@ -1,0 +1,553 @@
+{
+  "main": {
+    "id": "56c8c491b652f9cd",
+    "type": "split",
+    "children": [
+      {
+        "id": "44babec5791fbafb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d982de93af0f1172",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "base.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "base"
+            }
+          },
+          {
+            "id": "5d5caeec6e77a48a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Deuses/Guerra.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Guerra"
+            }
+          },
+          {
+            "id": "bfff2ebcbc239d39",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Deuses/Entidades.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Entidades"
+            }
+          },
+          {
+            "id": "1ff1e277441ebbb8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "base.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "base"
+            }
+          },
+          {
+            "id": "ecbb9de61f746336",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "base.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "base"
+            }
+          },
+          {
+            "id": "706501c3343e613d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CAMPAIGN/Dawn War/Dawn War.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dawn War"
+            }
+          },
+          {
+            "id": "0dad7890fe7777f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CAMPAIGN/Genesis 2.0/Genesis 2.0.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Genesis 2.0"
+            }
+          },
+          {
+            "id": "4eab379a4c54711b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CAMPAIGN/Genesis 2.0/Genesis 2.0.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Genesis 2.0"
+            }
+          },
+          {
+            "id": "53b6f9f28de01ff2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "8e5a98dea722de56",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CAMPAIGN/Genesis 2.0/Genesis 2.0.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Genesis 2.0"
+            }
+          },
+          {
+            "id": "e7c3ff9d19da5d23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CAMPAIGN/Genesis 2.0/Guerra.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Guerra"
+            }
+          },
+          {
+            "id": "00381c0238159ac2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CAMPAIGN/Genesis 2.0/pos guerra.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "pos guerra"
+            }
+          },
+          {
+            "id": "9203be80b7d85811",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CAMPAIGN/Genesis 2.0/sangue estigio.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "sangue estigio"
+            }
+          },
+          {
+            "id": "46f7ebf41830379a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CAMPAIGN/Genesis 2.0/Medula Radiante.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Medula Radiante"
+            }
+          },
+          {
+            "id": "26260c6b5d137006",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CAMPAIGN/Genesis 2.0/Cinza de Shakar.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cinza de Shakar"
+            }
+          },
+          {
+            "id": "5c74a6e90e1d56c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CAMPAIGN/Genesis 2.0/Ferro-Bravio.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ferro-Bravio"
+            }
+          },
+          {
+            "id": "468bc27c77e9f8a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CAMPAIGN/Genesis 2.0/Chumbo Órfão.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chumbo Órfão"
+            }
+          },
+          {
+            "id": "ad0d57b86b3f34d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CAMPAIGN/Genesis 2.0/Lotus de Vidro.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lotus de Vidro"
+            }
+          },
+          {
+            "id": "28296521584ce84b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "56978b9a89133f3a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 1"
+            }
+          },
+          {
+            "id": "f0c6608f8fa474b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CAMPAIGN/Regime Politico.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Regime Politico"
+            }
+          },
+          {
+            "id": "cf06cc491da80bda",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TO_REVIEW/IN_REVIEW.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "IN_REVIEW"
+            }
+          },
+          {
+            "id": "860ddb428c94e1be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TO_REVIEW/IN_REVIEW.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "IN_REVIEW"
+            }
+          },
+          {
+            "id": "40a735814bfde323",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TO_REVIEW/IN_REVIEW.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "IN_REVIEW"
+            }
+          }
+        ],
+        "currentTab": 23
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9b101a16345bda06",
+    "type": "split",
+    "children": [
+      {
+        "id": "11d4092b293a34e3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2923d054f1eb1dde",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "4c243ef0f283125f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "187af8c768c1e6c4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "a5d5b975cd2e3135",
+    "type": "split",
+    "children": [
+      {
+        "id": "21c832e9390b5c87",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bcacab9d4f201629",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Ideias/Cidades - Santuario.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Cidades - Santuario"
+            }
+          },
+          {
+            "id": "0a43923439ffda0b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Ideias/Cidades - Santuario.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Cidades - Santuario"
+            }
+          },
+          {
+            "id": "35df991c92d05561",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6eed132d840aa175",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "1acfeb378e123e2b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Ideias/Cidades - Santuario.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Cidades - Santuario"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "40a735814bfde323",
+  "lastOpenFiles": [
+    "CAMPAIGN/z proximos passos.md",
+    "CAMPAIGN/Regime Politico.md",
+    "CAMPAIGN/Funcinamento Geral.md",
+    "CAMPAIGN/Lugares - Pontos de Interesse/Antros de Jogo e Casas de Penhores.md",
+    "TO_REVIEW/IN_REVIEW.md",
+    "CAMPAIGN/Lugares - Pontos de Interesse/Casas de Impressão.md",
+    "CAMPAIGN/Lugares - Pontos de Interesse/Pedreiras de Punição.md",
+    "CAMPAIGN/Lugares - Pontos de Interesse/Estações de Estafetas e Correio Oficial.md",
+    "TO_REVIEW/Campanha 1 - Problem-History.md",
+    "CAMPAIGN/Lugares - Pontos de Interesse/Portos, Docas e Alfândegas Fluviais.md",
+    "CAMPAIGN/Lugares - Pontos de Interesse/Banhos Públicos e Termas.md",
+    "CAMPAIGN/Lugares - Pontos de Interesse/Guildas de Aventureiros.md",
+    "CAMPAIGN/Lugares - Pontos de Interesse/Orfanatos e Escolas.md",
+    "CAMPAIGN/Lugares - Pontos de Interesse/Teatros, Coliseus e Entretenimento.md",
+    "CAMPAIGN/Lugares - Pontos de Interesse/Fornos Crematórios Comunitários.md",
+    "CAMPAIGN/Lugares - Pontos de Interesse/Cemitérios e Catacumbas.md",
+    "CAMPAIGN/Lugares - Pontos de Interesse/Tanoarias e Oficinas  -- Comercio.md",
+    "CAMPAIGN/Lugares - Pontos de Interesse/Lojas de Itens Mágicos Brilhantes.md",
+    "CAMPAIGN/Lugares - Pontos de Interesse/Sedes de Ordens de Paladinos ou Clérigos.md",
+    "CAMPAIGN/Lugares - Pontos de Interesse/Academias de Magia.md",
+    "CAMPAIGN/Lugares - Pontos de Interesse/Ruínas do \"Primeiro Acordo\".md",
+    "CAMPAIGN/Lugares - Pontos de Interesse/Antros de Cinza (Capitais e Submundo).md",
+    "CAMPAIGN/Lugares - Pontos de Interesse/Templos \"Ansiosos\" (Sobreviventes).md",
+    "CAMPAIGN/Lugares - Pontos de Interesse/Igrejas e Templos Silenciosos ou em Ruínas.md",
+    "CAMPAIGN/Lugares - Pontos de Interesse/Pilares de Condução e Obeliscos.md",
+    "L.md",
+    "Pasted image 20260903223452.png",
+    "CAMPAIGN/Lugares - Pontos de Interesse",
+    "Pasted image 20260629121246.png",
+    "Pasted image 20260714122253.png",
+    "Ideias/The carnival of Saints",
+    "CAMPAIGN/Genesis 2.0",
+    "CAMPAIGN/Dawn War",
+    "CAMPAIGN",
+    "Ideias/Regras da magia - mundo",
+    "Untitled",
+    "Ideias",
+    "TO_REVIEW",
+    "estes"
+  ]
+}
